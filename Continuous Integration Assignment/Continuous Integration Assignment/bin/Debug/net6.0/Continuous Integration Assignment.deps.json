@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Continuous Integration Assignment/1.0.0": {
+        "runtime": {
+          "Continuous Integration Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Continuous Integration Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

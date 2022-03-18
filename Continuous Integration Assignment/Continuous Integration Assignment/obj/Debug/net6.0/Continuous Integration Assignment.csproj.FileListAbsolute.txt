@@ -1,0 +1,15 @@
+C:\Users\Desiken\Desktop\Continuous Integration Assignment\Continuous Integration Assignment\bin\Debug\net6.0\Continuous Integration Assignment.exe
+C:\Users\Desiken\Desktop\Continuous Integration Assignment\Continuous Integration Assignment\bin\Debug\net6.0\Continuous Integration Assignment.deps.json
+C:\Users\Desiken\Desktop\Continuous Integration Assignment\Continuous Integration Assignment\bin\Debug\net6.0\Continuous Integration Assignment.runtimeconfig.json
+C:\Users\Desiken\Desktop\Continuous Integration Assignment\Continuous Integration Assignment\bin\Debug\net6.0\Continuous Integration Assignment.dll
+C:\Users\Desiken\Desktop\Continuous Integration Assignment\Continuous Integration Assignment\bin\Debug\net6.0\ref\Continuous Integration Assignment.dll
+C:\Users\Desiken\Desktop\Continuous Integration Assignment\Continuous Integration Assignment\bin\Debug\net6.0\Continuous Integration Assignment.pdb
+C:\Users\Desiken\Desktop\Continuous Integration Assignment\Continuous Integration Assignment\obj\Debug\net6.0\Continuous Integration Assignment.csproj.AssemblyReference.cache
+C:\Users\Desiken\Desktop\Continuous Integration Assignment\Continuous Integration Assignment\obj\Debug\net6.0\Continuous Integration Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desiken\Desktop\Continuous Integration Assignment\Continuous Integration Assignment\obj\Debug\net6.0\Continuous Integration Assignment.AssemblyInfoInputs.cache
+C:\Users\Desiken\Desktop\Continuous Integration Assignment\Continuous Integration Assignment\obj\Debug\net6.0\Continuous Integration Assignment.AssemblyInfo.cs
+C:\Users\Desiken\Desktop\Continuous Integration Assignment\Continuous Integration Assignment\obj\Debug\net6.0\Continuous Integration Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Desiken\Desktop\Continuous Integration Assignment\Continuous Integration Assignment\obj\Debug\net6.0\Continuous Integration Assignment.dll
+C:\Users\Desiken\Desktop\Continuous Integration Assignment\Continuous Integration Assignment\obj\Debug\net6.0\ref\Continuous Integration Assignment.dll
+C:\Users\Desiken\Desktop\Continuous Integration Assignment\Continuous Integration Assignment\obj\Debug\net6.0\Continuous Integration Assignment.pdb
+C:\Users\Desiken\Desktop\Continuous Integration Assignment\Continuous Integration Assignment\obj\Debug\net6.0\Continuous Integration Assignment.genruntimeconfig.cache

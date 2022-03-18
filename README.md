@@ -14,6 +14,6 @@ Once the ZIP is downloaded, unzip the folder to any desired location on your dev
 A selection of subfolders must be entered before reaching the actual file where the end-user can click on, to run the application on the visual studio software. 
 Please refer to the subfolders sequence : 
 Continuous-Integration-main\Continuous-Integration-main\Continuous Integration Assignment.
-Once there, locate the file with naming as such 'Continuous Integration Assignment.sln'.
+Once there, locate the file with naming as such "Continuous Integration Assignment.sln".
 The visual studio software will open up, locate the play button from the second top navigation bar of the visual studio software.
 Congrats the application is now running!
